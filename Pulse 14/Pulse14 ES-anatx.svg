@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:ns1="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -22,7 +23,17 @@
    id="metadata735"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
-   id="defs733">
+   id="defs733"><linearGradient
+   id="linearGradient3148"
+   osb:paint="solid"><stop
+     style="stop-color:#000000;stop-opacity:1;"
+     offset="0"
+     id="stop3146" /></linearGradient><linearGradient
+   id="linearGradient3116"
+   osb:paint="solid"><stop
+     style="stop-color:#000000;stop-opacity:1;"
+     offset="0"
+     id="stop3114" /></linearGradient>
 	
 	
 
@@ -442,13 +453,29 @@
      xlink:href="#XMLID_1_" /></clipPath><clipPath
    id="XMLID_5_-2-3"><use
      id="use5-9-4"
-     xlink:href="#XMLID_1_" /></clipPath></defs><sodipodi:namedview
+     xlink:href="#XMLID_1_" /></clipPath><linearGradient
+   inkscape:collect="always"
+   xlink:href="#linearGradient3116"
+   id="linearGradient3118"
+   x1="799.09955"
+   y1="59.225082"
+   x2="821.16595"
+   y2="59.225082"
+   gradientUnits="userSpaceOnUse" /><linearGradient
+   inkscape:collect="always"
+   xlink:href="#linearGradient3148"
+   id="linearGradient3150"
+   x1="799.09955"
+   y1="59.225082"
+   x2="821.16595"
+   y2="59.225082"
+   gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
    inkscape:current-layer="layer3"
    inkscape:window-maximized="1"
    inkscape:window-y="27"
    inkscape:window-x="72"
    inkscape:cy="188.30921"
-   inkscape:cx="675.47546"
+   inkscape:cx="517.75099"
    inkscape:zoom="1.4683296"
    showgrid="false"
    id="namedview731"
@@ -1592,7 +1619,7 @@
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-weight:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
      font-size="10px"
      id="text272">!</text><text
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Medium'"
@@ -1634,7 +1661,7 @@
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-weight:normal;font-size:13.3333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
      font-size="10px"
      id="text282">;</text><text
      y="251.90814"
@@ -1642,7 +1669,7 @@
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-weight:normal;font-size:13.3333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
      font-size="10px"
      id="text284">:</text><text
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
@@ -1760,7 +1787,7 @@
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
-     style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
      font-size="10px"
      id="text312">€</text><text
      y="214.92764"
@@ -1768,7 +1795,7 @@
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-weight:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
      font-size="10px"
      id="text316">{</text><text
      y="165.00909"
@@ -1776,7 +1803,7 @@
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-weight:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
      font-size="10px"
      id="text318">[</text><text
      y="165.00925"
@@ -1800,7 +1827,7 @@
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-weight:normal;font-size:13.3333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
      font-size="10px"
      id="text324">\</text><text
      y="115.33503"
@@ -1808,7 +1835,7 @@
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
-     style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-weight:normal;font-size:10.6667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
      font-size="13px"
      id="text326">~</text><text
      y="114.06379"
@@ -1854,7 +1881,7 @@
        font-weight="'Semi-Bold'"
        style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
        font-size="8px"
-       id="tspan334">CTRL</tspan></text><text
+       id="tspan334">ctrl</tspan></text><text
      y="305.26169"
      x="728.77252"
      id="text352"><tspan
@@ -1865,7 +1892,7 @@
        font-weight="'Semi-Bold'"
        style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
        font-size="8px"
-       id="tspan344">CTRL</tspan></text><text
+       id="tspan344">ctrl</tspan></text><text
      y="305.26169"
      x="338.79639"
      id="text360"><tspan
@@ -1874,25 +1901,9 @@
        fill="#ffffff"
        font-family="Rajdhani"
        font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
+       style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
        font-size="8px"
-       id="tspan354">A</tspan><tspan
-       x="343.42841"
-       y="305.26169"
-       fill="#ffffff"
-       font-family="Rajdhani"
-       font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
-       font-size="8px"
-       id="tspan356">L</tspan><tspan
-       x="346.96439"
-       y="305.26169"
-       fill="#ffffff"
-       font-family="Rajdhani"
-       font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
-       font-size="8px"
-       id="tspan358">T</tspan></text><text
+       id="tspan354">alt</tspan></text><text
      y="305.26169"
      x="235.18851"
      id="text366"><tspan
@@ -1901,7 +1912,7 @@
        fill="#ffffff"
        font-family="Rajdhani"
        font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
+       style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
        font-size="8px"
        id="tspan362">F</tspan><tspan
        x="239.0365"
@@ -1909,7 +1920,7 @@
        fill="#ffffff"
        font-family="Rajdhani"
        font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
+       style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
        font-size="8px"
        id="tspan364">N</tspan></text><text
      y="305.26169"
@@ -1920,41 +1931,9 @@
        fill="#ffffff"
        font-family="Rajdhani"
        font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
+       style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
        font-size="8px"
-       id="tspan368">A</tspan><tspan
-       x="661.80389"
-       y="305.26169"
-       fill="#ffffff"
-       font-family="Rajdhani"
-       font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
-       font-size="8px"
-       id="tspan370">L</tspan><tspan
-       x="665.33191"
-       y="305.26169"
-       fill="#ffffff"
-       font-family="Rajdhani"
-       font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
-       font-size="8px"
-       id="tspan372">T </tspan><tspan
-       x="670.70789"
-       y="305.26169"
-       fill="#ffffff"
-       font-family="Rajdhani"
-       font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
-       font-size="8px"
-       id="tspan374">G</tspan><tspan
-       x="675.16388"
-       y="305.26169"
-       fill="#ffffff"
-       font-family="Rajdhani"
-       font-weight="'Semi-Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:semi-bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
-       font-size="8px"
-       id="tspan376">R</tspan></text><text
+       id="tspan368">alt gr</tspan></text><text
      y="329.50681"
      x="900.06738"
      id="text414"><tspan
@@ -1974,7 +1953,7 @@
      d="m 909.909,140.028 c -0.276,0 -0.5,0.224 -0.5,0.5 v 4.418 h -7.691 v 1.25 l -2.022,-2.022 2.022,-2.023 v 1.251 h 6.148 v -2.874 c 0,-0.276 -0.224,-0.5 -0.5,-0.5 -0.276,0 -0.5,0.224 -0.5,0.5 v 1.874 h -4.148 v -1.458 c 0,-0.202 -0.122,-0.385 -0.309,-0.462 -0.187,-0.078 -0.401,-0.034 -0.545,0.108 l -3.229,3.23 c -0.195,0.195 -0.195,0.512 0,0.707 l 3.229,3.23 c 0.096,0.095 0.224,0.146 0.354,0.146 0.064,0 0.129,-0.012 0.191,-0.038 0.187,-0.077 0.309,-0.26 0.309,-0.462 v -1.457 h 7.691 v -5.418 c 0,-0.276 -0.223,-0.5 -0.5,-0.5"
      fill="#ffffff"
      clip-path="url(#XMLID_57_)"
-     transform="translate(0,65)" /><path
+     transform="translate(1.70925,-1)" /><path
      id="path392"
      d="m 158.149,247.763 c 0,-0.13 0.051,-0.258 0.146,-0.354 l 3.23,-3.229 c 0.195,-0.194 0.512,-0.194 0.707,0 l 3.229,3.229 c 0.143,0.144 0.187,0.36 0.109,0.545 -0.077,0.188 -0.26,0.309 -0.462,0.309 h -1.458 v 3.19 c 0,0.277 -0.224,0.5 -0.5,0.5 -0.276,0 -0.5,-0.223 -0.5,-0.5 v -4.19 h 1.251 l -2.023,-2.021 -2.022,2.021 h 1.25 v 4.19 c 0,0.277 -0.224,0.5 -0.5,0.5 -0.276,0 -0.5,-0.223 -0.5,-0.5 v -3.19 h -1.457 c -0.202,0 -0.385,-0.121 -0.462,-0.309 -0.026,-0.06 -0.038,-0.127 -0.038,-0.191"
      fill="#ffffff"
@@ -2004,8 +1983,8 @@
      id="text424"><tspan
        sodipodi:role="line"
        id="tspan392"
-       x="788.58319"
-       y="329.50681"><tspan
+       x="0"
+       y="0"><tspan
          x="788.58319"
          y="329.50681"
          fill="#ffffff"
@@ -2013,7 +1992,7 @@
          font-weight="'Medium'"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Medium'"
          font-size="6px"
-         id="tspan416"></tspan></tspan><tspan
+         id="tspan416" /></tspan><tspan
        sodipodi:role="line"
        id="tspan394"
        x="788.58319"
@@ -2036,34 +2015,19 @@
        font-weight="'Bold'"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
        font-size="8px"
-       id="tspan498">E</tspan><tspan
-       x="166.42909"
-       y="58.141102"
-       fill="#ffffff"
-       font-family="Rajdhani"
-       font-weight="'Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
-       font-size="8px"
-       id="tspan500">S</tspan><tspan
-       x="170.9091"
-       y="58.141102"
-       fill="#ffffff"
-       font-family="Rajdhani"
-       font-weight="'Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
-       font-size="8px"
-       id="tspan502">C</tspan></text><text
+       id="tspan498">ESC</tspan></text><text
      y="62.141102"
      x="851.26562"
-     id="text594"><tspan
+     id="text594"
+     style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"><tspan
        x="851.26562"
        y="62.141102"
        fill="#ffffff"
        font-family="Rajdhani"
        font-weight="'Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        font-size="8px"
-       id="tspan584">INS</tspan></text><text
+       id="tspan584">ins</tspan></text><text
      y="62.141102"
      x="896.06049"
      id="text602"><tspan
@@ -2074,18 +2038,19 @@
        font-weight="'Bold'"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
        font-size="8px"
-       id="tspan596">SUPR</tspan></text><text
+       id="tspan596">supr</tspan></text><text
      y="62.141098"
      x="798.36517"
-     id="text612"><tspan
+     id="text612"
+     style="fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3118);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
        x="798.36517"
        y="62.141098"
        fill="#ffffff"
        font-family="Rajdhani"
        font-weight="'Bold'"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold'"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani Bold';fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3118);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        font-size="8px"
-       id="tspan604">IMPR</tspan></text><g
+       id="tspan604">impr</tspan></text><g
      id="g630"
      clip-path="url(#XMLID_59_)">
 					<defs
@@ -2114,7 +2079,7 @@
    clip-path="url(#XMLID_60_)" />
 					<polygon
    id="polygon628"
-   points="852.317,294.052 850.587,295.782 854.046,295.782 "
+   points="850.587,295.782 854.046,295.782 852.317,294.052 "
    fill="#ffffff"
    clip-path="url(#XMLID_60_)" />
 				</g><g
@@ -2146,7 +2111,7 @@
    clip-path="url(#XMLID_61_)" />
 					<polygon
    id="polygon640"
-   points="852.316,319.577 854.046,317.848 850.587,317.848 "
+   points="854.046,317.848 850.587,317.848 852.316,319.577 "
    fill="#ffffff"
    clip-path="url(#XMLID_61_)" />
 				</g><g
@@ -2178,7 +2143,7 @@
    clip-path="url(#XMLID_62_)" />
 					<polygon
    id="polygon652"
-   points="799.26,302.678 800.989,304.407 800.989,300.948 "
+   points="800.989,304.407 800.989,300.948 799.26,302.678 "
    fill="#ffffff"
    clip-path="url(#XMLID_62_)" />
 				</g><g
@@ -2210,7 +2175,7 @@
    clip-path="url(#XMLID_63_)" />
 					<polygon
    id="polygon664"
-   points="905.533,302.679 903.803,300.948 903.803,304.407 "
+   points="903.803,300.948 903.803,304.407 905.533,302.679 "
    fill="#ffffff"
    clip-path="url(#XMLID_63_)" />
 				</g><text
@@ -2467,7 +2432,7 @@
        font-size="8px"
        id="tspan580">2</tspan></text><polygon
      id="polygon672"
-     points="220.901,65.071 220.189,65.789 219.701,65.302 220.419,64.589 219.701,63.871 220.189,63.383 220.901,64.101 221.62,63.383 222.106,63.871 221.39,64.589 222.106,65.302 221.62,65.789 "
+     points="220.189,65.789 219.701,65.302 220.419,64.589 219.701,63.871 220.189,63.383 220.901,64.101 221.62,63.383 222.106,63.871 221.39,64.589 222.106,65.302 221.62,65.789 220.901,65.071 "
      fill="#ffffff"
      clip-path="url(#XMLID_59_)"
      transform="translate(10,-4.7079988)" /><path
@@ -2493,7 +2458,7 @@
      clip-path="url(#XMLID_59_)"
      transform="translate(10,-4.7084282)" /><polygon
      id="polygon680"
-     points="319.047,64.94 318.105,64.94 318.105,64.232 319.047,64.232 319.047,63.251 319.815,63.251 319.815,64.232 320.758,64.232 320.758,64.94 319.815,64.94 319.815,65.92 319.047,65.92 "
+     points="318.105,64.94 318.105,64.232 319.047,64.232 319.047,63.251 319.815,63.251 319.815,64.232 320.758,64.232 320.758,64.94 319.815,64.94 319.815,65.92 319.047,65.92 319.047,64.94 "
      fill="#ffffff"
      clip-path="url(#XMLID_59_)"
      transform="translate(10,-4.7074988)" /><path
@@ -2526,7 +2491,7 @@
        id="path688" /><polygon
        clip-path="url(#XMLID_59_)"
        fill="#ffffff"
-       points="517.495,65.92 516.727,65.92 516.727,64.94 515.785,64.94 515.785,64.232 516.727,64.232 516.727,63.252 517.495,63.252 517.495,64.232 518.438,64.232 518.438,64.94 517.495,64.94 "
+       points="516.727,65.92 516.727,64.94 515.785,64.94 515.785,64.232 516.727,64.232 516.727,63.252 517.495,63.252 517.495,64.232 518.438,64.232 518.438,64.94 517.495,64.94 517.495,65.92 "
        id="polygon690" /></g><path
      id="path692"
      d="m 662.153,62.577 0.376,-0.585 h -4.2 c -0.281,0 -0.511,0.229 -0.511,0.512 v 3.668 c 0,0.282 0.229,0.511 0.511,0.511 h 0.071 v 0.363 h 0.774 v -0.363 h 0.34 l 0.376,-0.585 h -1.487 v -3.521 z m -2.261,1.412 v -0.202 c 0,-0.028 0.012,-0.05 0.034,-0.064 l 0.205,-0.141 c 0.033,-0.023 0.063,-0.035 0.087,-0.035 h 0.181 c 0.031,0 0.048,0.018 0.048,0.052 v 1.488 c 0,0.019 -0.004,0.033 -0.011,0.041 -0.007,0.007 -0.02,0.01 -0.035,0.01 h -0.194 c -0.03,0 -0.046,-0.017 -0.046,-0.051 v -1.206 l -0.221,0.138 c -0.033,0.016 -0.048,0.006 -0.048,-0.03 m 5.3,-1.997 h -1.933 l -2.262,3.519 -0.377,0.587 -0.375,0.585 h 0.951 v 0.287 h -0.65 v 0.211 h 2.428 V 66.97 h -0.65 v -0.287 h 2.868 c 0.282,0 0.512,-0.229 0.512,-0.511 v -3.668 c 0,-0.283 -0.229,-0.512 -0.512,-0.512 m -1.382,2.055 c 0,0.129 -0.045,0.235 -0.135,0.319 l -0.423,0.396 c -0.018,0.018 -0.027,0.038 -0.027,0.059 v 0.04 h 0.538 c 0.031,0 0.047,0.018 0.047,0.052 v 0.174 c 0,0.034 -0.016,0.051 -0.047,0.051 h -0.81 c -0.032,0 -0.048,-0.017 -0.048,-0.051 v -0.236 c 0,-0.094 0.036,-0.174 0.11,-0.24 l 0.414,-0.386 c 0.067,-0.061 0.101,-0.127 0.101,-0.198 v -0.074 c 0,-0.051 -0.011,-0.088 -0.033,-0.11 -0.021,-0.022 -0.057,-0.034 -0.105,-0.034 h -0.079 c -0.049,0 -0.082,0.012 -0.101,0.034 -0.021,0.022 -0.03,0.059 -0.03,0.11 v 0.079 c 0,0.036 -0.016,0.055 -0.047,0.055 h -0.191 c -0.031,0 -0.047,-0.019 -0.047,-0.055 v -0.084 c 0,-0.128 0.032,-0.228 0.097,-0.297 0.065,-0.069 0.155,-0.104 0.274,-0.104 h 0.171 c 0.119,0 0.21,0.035 0.274,0.104 0.064,0.069 0.097,0.169 0.097,0.297 z"
@@ -2619,17 +2584,19 @@
        font-weight="'Semi-Bold'"
        style="font-style:normal;font-variant:normal;font-stretch:normal;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani SemiBold'"
        font-size="8px"
-       id="tspan334-7">BLOQ</tspan></text><text
+       id="tspan334-7">bloq</tspan></text><text
      y="115.33503"
      x="494.2608"
      fill="#ffffff"
      font-family="Rajdhani"
      font-weight="'Semi-Bold'"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Rajdhani;-inkscape-font-specification:'Rajdhani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
      font-size="13px"
      id="text1237"><tspan
        sodipodi:role="line"
-       id="tspan1239">¬</tspan></text><text
+       id="tspan1239"
+       x="494.2608"
+       y="115.33503">¬</tspan></text><text
      y="-779.65002"
      x="192.81192"
      fill="#ffffff"
